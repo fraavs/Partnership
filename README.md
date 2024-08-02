@@ -6,7 +6,7 @@
 I hope you're doing well! I’m reaching out to propose a partnership that could benefit both of us. I’m an experienced freelancer on Upwork, but my account has recently been blocked. I’d like to explore a collaboration with you to continue my work.
 
 ## What I Propose
-I would like to use your Upwork account to carry on my freelancing activities. In return, I can offer you $100 per month or 10% of my monthly earnings from the account—whichever is higher. This way, you can earn extra income while I keep working.
+I would like you to create a new Upwork account. If you don't have Upwork account, you can create account as web freelancer. If you have already created an account, I do not need one. If you create a new account with my tech stack profile, I will give you the following benefits: $100 per month or 10% of my monthly earnings from the account—whichever is higher. This way, you can earn extra income while I keep working.
 
 ## How It Works
 To ensure your account remains secure, I will remotely access your computer using a program like AnyDesk. This allows me to work without logging in from my own location.
